@@ -9,6 +9,10 @@ import java.util.Scanner;
  */
 public class C6_18 {
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter valid password: ");
@@ -16,6 +20,10 @@ public class C6_18 {
         password(pass);
     }
 
+    /**
+     *
+     * @param pass
+     */
     public static void password(String pass) {
 
         int two = 0;

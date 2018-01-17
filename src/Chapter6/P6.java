@@ -42,6 +42,15 @@ public class P6 {
         } while (yesOrNo.equalsIgnoreCase("yes"));
     }
 
+    /**
+     *
+     * @param typeOfMoney
+     * @param numOfDollars
+     * @param yen
+     * @param pound
+     * @param euro
+     * @param input
+     */
     public static void calculations(String typeOfMoney, double numOfDollars, double yen, double pound, double euro, Scanner input) {
         DecimalFormat d2 = new DecimalFormat("0.00");
         double euros1 = 0, pound1 = 0, yen1 = 0, euros2 = 0,
