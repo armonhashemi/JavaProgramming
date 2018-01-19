@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class P6 {
 
     /**
-     * Main
+     * Main Method asks to enter how much a dollar equal other currency
      *
      * @param args arguments from command line prompt
      */
@@ -43,6 +43,7 @@ public class P6 {
     }
 
     /**
+     * Method to convert currency to dollars
      *
      * @param typeOfMoney
      * @param numOfDollars

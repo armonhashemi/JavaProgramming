@@ -21,6 +21,7 @@ public class C6_18 {
     }
 
     /**
+     * Method checks if password is valid
      *
      * @param pass
      */
