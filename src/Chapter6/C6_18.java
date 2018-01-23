@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class C6_18 {
 
     /**
+     * asks for valid password
      *
      * @param args
      */
