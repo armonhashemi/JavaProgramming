@@ -40,7 +40,7 @@ public class C7_26 {
      *
      * @param list1 contains user entered integers
      * @param list2 contains user entered integers
-     * @return
+     * @return true or false
      */
     public static boolean equals(int[] list1, int[] list2) {
         if (list1.length != list2.length) {
