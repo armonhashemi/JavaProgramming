@@ -30,8 +30,8 @@ public class C7_9 {
     /**
      * Method finds the minimum number out the ten
      *
-     * @param array
-     * @return
+     * @param array contains ten integers
+     * @return the minimum value of the ten numbers
      */
     public static double minimum(double[] array) {
         double minimum = array[0];

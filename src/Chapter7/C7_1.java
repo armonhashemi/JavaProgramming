@@ -39,8 +39,8 @@ public class C7_1 {
     /**
      * Method creates for loop to highest grade
      *
-     * @param array
-     * @return
+     * @param array contains the number of students and scores
+     * @return the maximum number
      */
     public static int highest(int[] array) {
         int max = array[0];
@@ -56,8 +56,8 @@ public class C7_1 {
     /**
      * Method creates for loop to find score and grades
      *
-     * @param scores
-     * @param grades
+     * @param scores contains list of scores
+     * @param grades contains list of grades
      */
     public static void FindGrades(int[] scores, char[] grades) {
 

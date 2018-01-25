@@ -35,8 +35,8 @@ public class P7 {
     /**
      * method has a for loop that changes ints to doubles
      *
-     * @param num
-     * @param input
+     * @param num contains the integers asked for
+     * @param input contains user input
      */
     public static void methodA(int[] num, Scanner input) {
 
@@ -48,8 +48,8 @@ public class P7 {
     /**
      * method calculates average
      *
-     * @param num
-     * @return
+     * @param num contains the integers asked for
+     * @return the average of the ten numbers
      */
     public static double methodB(int[] num) {
 
@@ -67,7 +67,7 @@ public class P7 {
     /**
      * method prints the contents of the array
      *
-     * @param num
+     * @param num contains the integers asked for
      */
     public static void methodC(int[] num) {
         System.out.print("The contents of the array: \n" + java.util.Arrays.toString(num));

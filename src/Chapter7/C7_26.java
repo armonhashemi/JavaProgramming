@@ -38,8 +38,8 @@ public class C7_26 {
     /**
      * Method checks if the lists are equal
      *
-     * @param list1
-     * @param list2
+     * @param list1 contains user entered integers
+     * @param list2 contains user entered integers
      * @return
      */
     public static boolean equals(int[] list1, int[] list2) {
